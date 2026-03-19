@@ -67,7 +67,7 @@ This project demonstrates how **data storytelling** and **Excel analytics** can 
 ## 📥 How to Use  
 
 1. [Download the Blinkit Excel Dashboard](Blinkit%20Dash%20board.xlsx)  
-2. Open in **Microsoft Excel (2016 or later)**  
+2. Open in **Microsoft Excel  
 3. Click **Enable Content** if prompted  
 4. Use slicers to explore performance by city, outlet type, and product category  
 
