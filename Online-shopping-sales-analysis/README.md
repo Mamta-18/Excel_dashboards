@@ -28,7 +28,6 @@ It provides insights into business performance with  dynamic charts, and slicers
 
 ## 📸 Dashboard Preview
 
-> 🔽 Replace the below file paths once screenshots are uploaded inside an **images** folder
 
 | Full Dashboard View | KPIs & Charts Close-up |
 |--------------------|----------------------|
