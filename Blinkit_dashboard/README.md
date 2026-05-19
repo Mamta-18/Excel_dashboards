@@ -55,21 +55,9 @@ This project demonstrates how **data storytelling** and **Excel analytics** can 
 
 ---
 
-## 📂 File Details  
-- **File name:** `Blinkit Dashboard.xlsx`  
-- **Sheets included:**  
-  - `BlinkIT Raw Data` → Original dataset  
-  - `Sheet Design` → Dashboard layout template  
-  - `Dash_Board` → Final interactive dashboard  
 
----
 
-## 📥 How to Use  
 
-1. [Download the Blinkit Excel Dashboard](Blinkit%20Dash%20board.xlsx)  
-2. Open in **Microsoft Excel  
-3. Click **Enable Content** if prompted  
-4. Use slicers to explore performance by city, outlet type, and product category  
 
 ---
 
