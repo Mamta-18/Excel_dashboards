@@ -35,24 +35,9 @@ It provides insights into business performance with  dynamic charts, and slicers
 
 
 
----
-
-## 📁 Repository Structure
-📂 Excel-Sales-Dashboard
-│
-├── Dashboard.xlsx # Final Excel Dashboard
-├── README.md # Project Documentation
-└── images/ # Folder for screenshots
-├── dashboard_main.png
-└── dashboard_charts.png
 
 
----
 
-## 🚀 How to Use
-1. Clone or download the repository
-2. Open **Dashboard.xlsx** using Excel 
-3. Use slicers to filter data in real-time
 
 ---
 
